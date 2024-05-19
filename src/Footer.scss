@@ -1,0 +1,25 @@
+footer {
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+#a{
+    width: 20%;
+    background-color: black;
+    text-align: center;
+    color: goldenrod;
+    border-radius: 10px;
+}
+#b{
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
